@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Air Rush 3D</string>
+    <string name="audio_attribution_label">Audio Playback</string>
+    <string name="empty_attribution" translatable="false" />
+</resources>

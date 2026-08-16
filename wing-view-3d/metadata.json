@@ -1,0 +1,6 @@
+{
+  "name": "Air Rush 3D",
+  "description": "An immersive first-person 3D Flappy Bird game built in Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
